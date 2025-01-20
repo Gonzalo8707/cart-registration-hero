@@ -4,7 +4,7 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-gradient-to-b from-purple-100 to-white">
       <div className="container mx-auto px-4 py-16">
-        <div className="max-w-md mx-auto bg-white rounded-xl shadow-2xl p-8">
+        <div className="max-w-md mx-auto bg-purple-50 rounded-xl shadow-2xl p-8">
           <h1 className="text-3xl font-bold text-center text-gray-800 mb-8">
             Inscripción a Carritos
           </h1>
